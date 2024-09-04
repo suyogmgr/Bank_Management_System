@@ -1,13 +1,3 @@
--- create database suyog;
--- use suyog;
--- create table Student(roll int, name varchar(50), course varchar(50));
--- insert into Student(roll,name,course) values(1,"Suyog Rana Magar","BSC.Csit");
--- select *from Student;
-
-
--- select * from Student;
--- insert into Student(roll,course) values(2,'csit');
--- alter table student modify name varchar(50) not null;
 
 create database bankmanagementsystem;
 
